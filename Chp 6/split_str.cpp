@@ -76,6 +76,7 @@ vector<string> lib_split(const string& s) {
 	}
 	return ret;
 }
+/*
 int main() {
 	string s;
 
@@ -99,3 +100,4 @@ int main() {
 	}
 	return 0;
 }
+*/
